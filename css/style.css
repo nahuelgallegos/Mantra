@@ -1,0 +1,153 @@
+
+/* Comienzo de header */
+.header1 {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+
+}
+
+.header2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start ;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+
+.buscador {
+
+    margin-left: 30rem;
+    
+
+
+}
+.boton {
+    margin-left: 3rem;
+    background-color: white;
+    font-family: 'Cormorant SC', serif;
+    font-size: large;
+    color: black;
+    text-decoration: none;
+    border: none;
+
+}
+
+.boton:hover {
+    color: gray;
+    background-color: black;
+}
+.nave {
+    color: aliceblue;
+    font-family: 'Cormorant SC', serif;
+    font-size: large;
+    
+}
+.nave:hover {
+    color: gray;
+}
+/* Fin header */
+
+
+/* Comienzo de section index 1  */
+
+.logoprincipal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+/* Fin section index 1  */
+
+/* Comienzo de section index 2 */
+
+.bprincipal {
+    display: flex;
+    flex-direction: row;
+
+}
+.bprincipal1 {
+    padding: 5rem;
+
+}
+
+.textobp {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cormorant SC', serif;
+    
+
+
+}
+
+.textobpp {
+    margin-top: 2rem;
+}
+
+
+
+
+/* Fin de section index 2 */
+
+/* Comienzo de section index 3 */
+
+.b1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: end ;
+
+}
+
+.b1a {
+    padding: 4rem;
+ 
+}
+
+.textob1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cormorant SC', serif;
+    font-size: xx-large;
+    
+}
+
+
+
+/* Fin de section index 3 */
+
+/* Comienzo de section index 4 */
+
+.b2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.b2a {
+    padding: 5rem;
+}
+
+/* Comienzo de footer */
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.footera {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+/* Fin footer */
